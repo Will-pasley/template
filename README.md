@@ -5,9 +5,9 @@ Admin dashboard template based on Gatsby with [@paljs/ui](https://github.com/pal
 #### Setup:
 
 ```
-git clone https://github.com/paljs/gatsby-admin-template.git
+git clone https://github.com/Will-pasley/template.git
 
-cd gatsby-admin-template
+cd template
 
 yarn install
 
