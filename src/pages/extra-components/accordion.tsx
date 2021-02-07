@@ -15,7 +15,7 @@ const Accordions = () => {
       <Row>
         <Col breakPoint={{ xs: 12, lg: 6 }}>
           <Card>
-            <header>Toggle Accordion By Button</header>
+            <header>My Name is Will</header>
             <CardBody>
               <Row>
                 <Col style={style} breakPoint={{ xs: 12, lg: 4 }}>
@@ -48,7 +48,7 @@ const Accordions = () => {
           </Card>
           <Accordion>
             <AccordionItem uniqueKey={1} title="head 1">
-              Hello 1Hello 1Hello 1Hello 1
+              Hello :)
             </AccordionItem>
             <AccordionItem uniqueKey={2} title="head 2">
               Hello 2Hello 2Hello 2Hello 2
@@ -61,7 +61,7 @@ const Accordions = () => {
         <Col breakPoint={{ xs: 12, lg: 6 }}>
           <Accordion multi ref={accordionRef}>
             <AccordionItem uniqueKey={1} title="head 1">
-              Hello 1Hello 1Hello 1Hello 1
+              GOODBYE :(
             </AccordionItem>
             <AccordionItem uniqueKey={2} title="head 2">
               Hello 2Hello 2Hello 2Hello 2
